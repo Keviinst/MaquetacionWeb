@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+.regla1 {
+    font-family: verdana;
+    font-size: 20px;
+    background-color: red; 
+    color: #CCC;
+    text-align: center;
+    /*padding-right: 50px;
+    margin-right: 150px;*/
+    padding: 25px 10px; /*T,B R,L */
+    /*padding: 20px; T,B,L,R*/
+    /*margin: auto; */
+    position: absolute; /* ocupa todo */
+    top: 100px;
+    left: 200px;
+}
+#regla2 {
+    font-family: verdana;
+    font-size: 20px;
+    background-color: blue; 
+    color: #CCC;
+    text-align: center;
+    /*padding-right: 50px;
+    margin-right: 150px;*/
+    padding: 25px 10px; /*T,B R,L */
+    /*padding: 20px; T,B,L,R*/
+    /*margin: auto; */
+ 	position: absolute; /* div */   	
+    left: 400px;
+}

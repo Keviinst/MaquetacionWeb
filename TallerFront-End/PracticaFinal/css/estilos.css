@@ -1,0 +1,31 @@
+.marca{
+	border-color: #99C;
+	border-style: dotted;
+}
+a{
+    text-decoration: none;
+    color: #F30;
+}
+a:hover{
+    color: blue;
+    font-weight: bold;
+    font-family: Times New Roman;
+}
+ul{
+    list-style-type: none;
+    width: 100%;
+}
+li{
+    display: inline-block;
+    width: 23%;
+
+}
+.kev{
+	display: inline-block;
+    width: 13%;
+}
+#f2c1{
+    width: 30%;
+    display: table-cell;
+    background-color: #96F;
+}
